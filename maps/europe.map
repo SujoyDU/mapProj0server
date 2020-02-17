@@ -1,0 +1,47 @@
+  MAP
+    NAME "Europe in purple"
+    IMAGETYPE      PNG
+    STATUS         ON 
+    EXTENT         -180 -90 180 90
+    SHAPEPATH      "../data"
+    IMAGECOLOR     255 255 255  
+  
+  PROJECTION
+    "init=epsg:4326"
+  END 
+
+   WEB
+        IMAGEPATH "/home/sujoy/Desktop/webgis/mapscripts/tmp/"
+        IMAGEURL "/tmp/"
+        METADATA
+                "wms_srs" 			"EPSG:4326"    
+                "wms_formats" 			'png'
+                "wms_enable_request"		 "*"
+            "wms_onlineresource" "http://localhost/cgi-bin/mapserv?map=maps/static.map&"   
+        END    
+    END
+    OUTPUTFORMAT
+        NAME png
+        DRIVER "GD/PNG"
+        MIMETYPE "image/png"
+        IMAGEMODE RGB
+        EXTENSION "png"
+    END
+
+    LAYER
+        NAME "world30"
+        DATA  "world30"
+        STATUS       ON
+        TYPE         POLYGON
+        DUMP 	 TRUE
+        CLASS
+            NAME       "world30"
+            STYLE
+                COLOR 110 50 100
+                OUTLINECOLOR 200 200 200
+                SYMBOL 0
+            END
+        END
+    END
+
+    END

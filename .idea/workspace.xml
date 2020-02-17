@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="22d0f506-4ba1-4244-be91-eba9f8eb9a8a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="35e90a26-9ecb-407e-a8a7-82a9026c5732" name="phpServer" port="4020" />
+    </servers>
+  </component>
+  <component name="ProjectId" id="1XpXUGpvlQGxbSOMGliPeN59z4r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/staticwms.php" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php.debug" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/staticwms.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.2" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="staticwms.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" nameIsGenerated="true" path="$PROJECT_DIR$/staticwms.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.2" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22d0f506-4ba1-4244-be91-eba9f8eb9a8a" name="Default Changelist" comment="" />
+      <created>1581744023915</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581744023915</updated>
+      <workItem from="1581744025293" duration="584000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="576" y="158" width="824" height="684" key="#CLI_Interpreters" timestamp="1581744123497">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state x="576" y="158" width="824" height="684" key="#CLI_Interpreters/67.27.1853.948@67.27.1853.948" timestamp="1581744123497" />
+    <state x="451" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581744318257">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state x="451" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.948@67.27.1853.948" timestamp="1581744318257" />
+    <state x="776" y="208" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1581744106055">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state x="776" y="208" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog/67.27.1853.948@67.27.1853.948" timestamp="1581744106055" />
+    <state x="776" y="258" width="424" height="484" key="FileChooserDialogImpl" timestamp="1581744068178">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state x="776" y="258" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.948@67.27.1853.948" timestamp="1581744068178" />
+    <state width="1807" height="244" key="GridCell.Tab.0.bottom" timestamp="1581744611817">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state width="1807" height="244" key="GridCell.Tab.0.bottom/67.27.1853.948@67.27.1853.948" timestamp="1581744611817" />
+    <state width="1807" height="244" key="GridCell.Tab.0.center" timestamp="1581744611816">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state width="1807" height="244" key="GridCell.Tab.0.center/67.27.1853.948@67.27.1853.948" timestamp="1581744611816" />
+    <state width="1807" height="244" key="GridCell.Tab.0.left" timestamp="1581744611815">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state width="1807" height="244" key="GridCell.Tab.0.left/67.27.1853.948@67.27.1853.948" timestamp="1581744611815" />
+    <state width="1807" height="244" key="GridCell.Tab.0.right" timestamp="1581744611816">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state width="1807" height="244" key="GridCell.Tab.0.right/67.27.1853.948@67.27.1853.948" timestamp="1581744611816" />
+    <state x="482" y="135" key="SettingsEditor" timestamp="1581744581999">
+      <screen x="67" y="27" width="1853" height="948" />
+    </state>
+    <state x="482" y="135" key="SettingsEditor/67.27.1853.948@67.27.1853.948" timestamp="1581744581999" />
+  </component>
+</project>
